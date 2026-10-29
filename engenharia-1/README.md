@@ -17,7 +17,7 @@
 
 ### Atividade 4 - Contribuições no API
 
-- Contribuí principalmente com o desenvolvimento de funções em código Python para que a IA conseguisse consultar planilhas com registros de vendas passadas e retornar ao usuário dados das vendas realizadas em um dia anterior especificado pelo mesmo.
+- Contribuí principalmente com o desenvolvimento de funções em código Python para que a IA conseguisse consultar planilhas com registros de vendas passadas e retornar ao usuário dados das vendas realizadas em um dia anterior especificado pelo mesmo. Desse modo fazendo com que a IA fosse capaz de analisar vendas passadas e criar estimativas baseadas nelas.
 - Também contribui na apresentação sobre o detalhamento do processo de desenvolvimento do produto na Sprint 2.
 
 ### Atividade 5 - Habilidades Desenvolvidas no API
