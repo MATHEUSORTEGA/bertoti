@@ -9,11 +9,21 @@
 
 ### Atividade 2 - Programação ao longo do tempo
 
-- 
+- O trecho do livro questiona maneiras de tornar os códigos mais sustentáveis e capazes de se integrar às mudanças constantes na programação, e uma das possíveis soluções para manter o código adequado mesmo com atualizações a todo momento é a aplicação de Trade-offs. No contexto da programação, a maior parte dos problemas pode ser solucionado através de trocas que deixem os códigos menos suscetíveis à problemas.
+- O texto enfatiza a importância de adaptar os códigos às novas tecnologias, ponto essencial que como indivíduo eu considero importante para que futuros problemas sejam evitados e novas tecnologias sejam integradas aos futuros trabalhos.
 
-### Atividade 3 - Exemplos de trade-off
+### Atividade 3 - Exemplos de Trade-off
 
-- 
+Trade-off se trata de abrir mão de um benefício para conseguir outro, na área da engenharia de software os trade-offs são algo que se torna cada vez mais essencial para o desenvolvimento de programas. Alguns exemplos de trade-offs:
+
+#### Desempenho x Legibilidade do Código
+- Um código muito otimizado ganha desempenho, mas perde em legibilidade e facilidade de manutenção.
+
+#### Consistência x Disponibilidade
+- Para garantir disponibilidade 100% do tempo em um sistema distribuído, você aceita que alguns dados fiquem temporariamente dessincronizados.
+
+#### Segurança x Usabilidade
+- Quanto mais seguro o sistema, mais etapas o usuário precisa cumprir, tornando a experiência menos fluida.
 
 ### Atividade 4 - Contribuições no API
 
@@ -23,7 +33,7 @@
 ### Atividade 5 - Habilidades Desenvolvidas no API
 
 - Programação em python: Desenvolvi a base e aprimorei meus conhecimentos sobre essa linguagem.
-- Bibliotecas do python: Utilizei as bibliotecas para tratar de dados e IA
+- Bibliotecas do python: Utilizei as bibliotecas para tratar de dados e IA.
 - Conhecimento de github e Jira: Aprendi sobre a utilização dessas ferramentas para facilitar o gerenciamento do projeto.
 - Metodologias Ágeis: Aplicamos no nosso projeto para trazer flexibilidade e colaboração em uma entrega curta.
 - Resolução de Problemas: Ao programar códigos encontrei soluções para diferentes problemas.
